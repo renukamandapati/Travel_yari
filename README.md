@@ -20,12 +20,10 @@ It provides users with a simple, responsive, and interactive interface to explor
 
 ⚡ How to Run
 
-1. Clone this repository:
-
-git clone https:
+1. Clone this repository:git clone: https://github.com/renukamandapati/Travel_yari
 
 2. Open index.html in any browser.
 
 3. Explore the website 🎉
-
+ visit:
 
